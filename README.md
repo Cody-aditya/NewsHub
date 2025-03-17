@@ -99,11 +99,11 @@ NewsHUB prioritizes user security:
 
 ## 👥 Contributors
 
-- Aditya Kumar Gupta  
-- Rishabh Bhardwaj  
-- [![Shobhit Sharma](https://avatars.githubusercontent.com/u/ShobhitPlaceholder?v=4&s=50)](https://github.com/ShobhitxSharma) **Shobhit Sharma** ([ShobhitxSharma](https://github.com/ShobhitxSharma))
-- Pratik  
-- Abhi Grover
+- [Aditya Kumar Gupta](https://github.com/Cody-aditya)  
+- [Rishabh Bhardwaj]()  
+- [Shobhit Sharma](https://github.com/ShobhitxSharma)
+- [Pratik]()  
+- [Abhi Grover]()
 
 ---
 
