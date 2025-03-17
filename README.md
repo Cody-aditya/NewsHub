@@ -100,10 +100,10 @@ NewsHUB prioritizes user security:
 ## 👥 Contributors
 
 - [Aditya Kumar Gupta](https://github.com/Cody-aditya)  
-- [Rishabh Bhardwaj]()  
+- [Rishabh Bhardwaj](https://github.com/rishu-bhardwajjj)  
 - [Shobhit Sharma](https://github.com/ShobhitxSharma)
-- [Pratik]()  
-- [Abhi Grover]()
+- [Pratik](https://github.com/PratikXPramanik)  
+- [Abhi Grover](https://github.com/abhigrover12)
 
 ---
 
