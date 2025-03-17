@@ -126,4 +126,6 @@ We welcome contributions from the community! Feel free to:
 
 We thank our mentors, peers, and the open-source community for their guidance and support in making NewsHUB a reality.
 
+---
 
+## [![GitHub contributors](https://img.shields.io/github/contributors/yourusername/newshub)](https://github.com/yourusername/newshub/graphs/contributors)
