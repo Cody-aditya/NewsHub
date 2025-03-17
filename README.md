@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cody-aditya/newshub.git
+   git clone https://github.com/Cody-aditya/NewsHub.git
    cd newshub
    ```
 2. Set up the database:
@@ -56,7 +56,7 @@ Ensure you have the following installed:
    - Update database credentials and API keys in the `.env` file.
 
 4. Start the server:
-   - Launch your web server and navigate to `http://localhost/newshub`.
+   - Launch your web server and navigate to `http://localhost/NewsHub`.
 
 ---
 
