@@ -101,7 +101,7 @@ NewsHUB prioritizes user security:
 
 - Aditya Kumar Gupta  
 - Rishabh Bhardwaj  
-- Shobhit Sharma  
+- [Shobhit Sharma](https://github.com/ShobhitxSharma) 
 - Pratik  
 - Abhi Grover
 
