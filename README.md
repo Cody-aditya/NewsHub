@@ -128,4 +128,4 @@ We thank our mentors, peers, and the open-source community for their guidance an
 
 ---
 
-## [![GitHub contributors](https://img.shields.io/github/contributors/yourusername/newshub)](https://github.com/yourusername/newshub/graphs/contributors)
+## [![GitHub contributors](https://img.shields.io/github/contributors/Cody-aditya/NewsHub)](https://github.com/Cody-aditya/NewsHub/graphs/contributors)
